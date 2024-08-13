@@ -18,3 +18,4 @@ Bu proje, modern web teknolojileri kullanılarak geliştirilen bir Netflix Clone
 - React Splide: Film kategorilerini sergilemek için  carousel/sliderlar oluşturma.
 - Millify: Büyük sayıları okunabilir bir formata dönüştürmek için kullanılır.
 # netflix_clone
+# netflix_clone
