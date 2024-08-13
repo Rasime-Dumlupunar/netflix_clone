@@ -17,5 +17,5 @@ Bu proje, modern web teknolojileri kullanılarak geliştirilen bir Netflix Clone
 - Redux Thunk: Redux içinde asenkron aksiyonları yönetmek için kullanılan middleware.
 - React Splide: Film kategorilerini sergilemek için  carousel/sliderlar oluşturma.
 - Millify: Büyük sayıları okunabilir bir formata dönüştürmek için kullanılır.
-# netflix_clone
-# netflix_clone
+
+![](https://github.com/Rasime-Dumlupunar/netflix_clone/blob/main/netflix_clone%20.gif)
